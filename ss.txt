@@ -1,0 +1,4 @@
+﻿1>------ Сборка начата: проект: project_in_proga_c++, Конфигурация: Debug Win32 ------
+1>Second_menu.cpp
+1>project_in_proga_c++.vcxproj -> D:\Програмування\project_in_proga_c++\Debug\project_in_proga_c++.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
